@@ -1,1 +1,5 @@
-404: Not Found
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: cst8918
